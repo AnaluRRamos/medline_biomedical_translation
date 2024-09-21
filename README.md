@@ -14,6 +14,6 @@ This project fetches abstracts from PubMed using provided PMIDs and translates t
 ## How to Set Up the Environment
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnaluRRamos/medline_articles.git
-   cd medline_articles
+   git clone https://github.com/AnaluRRamos/medline_biomedical_translation.git
+   cd medline_biomedical_translation
 
