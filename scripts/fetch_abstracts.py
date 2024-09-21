@@ -107,7 +107,7 @@ map_langs = {
 }
 
 def get_lang1_lang2():
-    return "en", "pt"  pyt
+    return "en", "pt"  
 
 def retrieve_abstracts(input_file_path, out_dir):
     lang1, lang2 = get_lang1_lang2()
