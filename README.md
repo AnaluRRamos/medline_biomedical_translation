@@ -1,10 +1,19 @@
-medline_articles/
-├── data/                        # Store your input data here (e.g., PMIDs list)
-├── output/                      # Store the output (abstracts and translations)
-│   ├── abstracts/               # Folder for abstracts fetched from PubMed
-│   └── translations/            # Folder for translated abstracts
-├── scripts/                     # Place your Python scripts here
-│   ├── fetch_abstracts.py        # This is the script for fetching abstracts
-│   └── translate_texts.py        # This is the script for translating texts
-├── requirements.txt             # Dependencies file for the project
-└── README.md                    # Documentation file explaining the project
+# Medline Articles Processing
+
+## Project Overview
+This project fetches abstracts from PubMed using provided PMIDs and translates the abstracts from English to Portuguese.
+
+## Directory Structure:
+- `data/`: Contains input data files.
+- `output/abstracts/`: Contains the fetched PubMed abstracts.
+- `output/translations/`: Contains the translated abstracts.
+- `scripts/`: Contains Python scripts for fetching abstracts and translating texts.
+- `requirements.txt`: List of required Python packages.
+- `processed_files.txt`: Track which files have already been processed (used in `translate_texts.py` to avoid reprocessing).
+
+## How to Set Up the Environment
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AnaluRRamos/medline_articles.git
+   cd medline_articles
+
