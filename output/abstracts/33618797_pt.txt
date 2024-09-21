@@ -1,0 +1,1 @@
+Na página 13, Tabela 1, primeira linha da terceira coluna (intitulada ‘Amplitude’) onde se lê: “[0,21; 1]”Deverá ler-se: “[21; 100]”. Artigo publicado com erros: https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/14516.

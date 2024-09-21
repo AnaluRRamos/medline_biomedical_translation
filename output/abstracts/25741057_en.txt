@@ -1,0 +1,1 @@
+Raspberry Pi is a low-cost computer created with educational purposes. It uses Linux and, most of times, freeware applications, particularly a software for viewing DICOM images. With an external monitor, the supported resolution (1920 × 1200 pixels) allows for the set up of simple viewing workstations at a reduced cost.

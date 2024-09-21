@@ -1,0 +1,10 @@
+langdetect
+transformers
+torch
+nltk
+beautifulsoup4
+datasets
+panda
+biopython
+sacremoses
+sacrebleu

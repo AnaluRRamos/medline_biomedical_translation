@@ -1,0 +1,1 @@
+On page 13, in Table 1, first line on the third column (under 'Amplitude'), where it reads: '[0,21; 1].', It should read: '[21; 100]'. Article published with errors: https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/14516.
